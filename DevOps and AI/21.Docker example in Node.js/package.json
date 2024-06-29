@@ -1,0 +1,14 @@
+{
+  "name": "ngrok",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "wilfredo-sosa",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "express": "4.19.2",
+    "sqlite3": "5.1.7"
+  }
+}
